@@ -24,7 +24,31 @@
 // "0" -> true
 // " " -> true
 
-let score = "33.4"
-let stringNumber = String(score); // Converts to string datatype
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let score = "33.4"
+// let stringNumber = String(score); // Converts to string datatype
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// ========= OPERATORS ============
+
+// let value = 3;
+// let negValue = -value;
+// console.log(negValue);
+
+// let str1 = "Hello"
+// let str2 = "Parth"
+
+// let str3 = str1 + " " + str2;
+// console.log(str3);
+
+// console.log(1 + "3");
+// console.log("1" + 3);
+// console.log("1" + 3 + 5);
+// console.log(1 + 3 + "5");
+// console.log(1 + "3" + 5);
+
+console.log(+true); // 1
+console.log(+""); // 0
+
+
+
