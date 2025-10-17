@@ -47,8 +47,10 @@
 // console.log(1 + 3 + "5");
 // console.log(1 + "3" + 5);
 
-console.log(+true); // 1
-console.log(+""); // 0
+// console.log(+true); // 1
+// console.log(+""); // 0
+
+
 
 
 
